@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**kuldeepgaur02/kuldeepgaur02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 A full-stack Car Management Application using Node.js, Express, and Vue.js, featuring advanced search, image handling, and cloud deployment.
-- 🌱 Backend development projects involving microservices architecture, distributed systems, or cloud infrastructure.
-- 👯 Advanced optimization techniques for large-scale backend systems and improving the performance of search algorithms in full-stack applications
-- 🤔 Cloud computing integration, IIoT implementations, and refining my skills in frontend technologies like Vue.js
-- 💬 Building scalable backend solutions, designing AI/ML functionalities, or my experiences with cross-platform application deployment.
-- 📫 connect with me on LinkedIn
-- 😄 He/Him
-- ⚡ I’m a National Level Bronze Medalist in swimming and ranked 2nd in a National Science Olympiad! 🌊🏅
-
-
 # 💫 About Me:
 A full-stack Car Management Application using Node.js, Express, and Vue.js, featuring advanced search, image handling, and cloud deployment.<br><br>Backend development projects involving microservices architecture, distributed systems, or cloud infrastructure.<br><br>Advanced optimization techniques for large-scale backend systems and improving the performance of search algorithms in full-stack applications<br><br>Cloud computing integration, IIoT implementations, and refining my skills in frontend technologies like Vue.js<br><br>Building scalable backend solutions, designing AI/ML functionalities, or my experiences with cross-platform application deployment.<br><br>I’m a National Level Bronze Medalist in swimming and ranked 2nd in a National Science Olympiad! 🌊🏅
 
@@ -39,4 +22,3 @@ A full-stack Car Management Application using Node.js, Express, and Vue.js, feat
 [![](https://visitcount.itsvg.in/api?id=kuldeepgaur02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
