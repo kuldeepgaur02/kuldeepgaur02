@@ -1,4 +1,5 @@
 # 💫 About Me:
+<br><br>Backend development projects involving microservices architecture, distributed systems, or cloud infrastructure.
 involving microservices architecture, distributed systems, or cloud infrastructure.<br><br>Advanced optimization techniques for large-scale backend systems and improving the performance of search algorithms in full-stack applications<br><br>Cloud computing integration, IIoT implementations, and refining my skills in frontend technologies like Vue.js<br><br>Building scalable backend solutions, designing AI/ML functionalities, or my experiences with cross-platform application deployment.<br><br>I’m a National Level Bronze Medalist in swimming and ranked 2nd in a National Science Olympiad! 🌊🏅
 
 
